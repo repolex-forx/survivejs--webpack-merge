@@ -1,0 +1,7 @@
+[2026-04-19T19:53:53Z] === AST ITERATION 1 START | repo=survivejs/webpack-merge sha=2f610b9c ===
+[2026-04-19T19:53:53Z] [iter=1] PHASE START: ast repo=survivejs/webpack-merge sha=2f610b9c
+[2026-04-19T19:53:53Z] [iter=1] Building AST aggregate chunks
+[2026-04-19T19:53:59Z] [iter=1] AST chunks built count=1 triples=72960
+[2026-04-19T19:53:59Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/2f610b9c2da066cc5d035ee83db84e22b7d42fb3/.complete
+[2026-04-19T19:53:59Z] [iter=1] PHASE END: ast elapsed_s=6 elapsed_min=0.1
+[2026-04-19T19:53:59Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
